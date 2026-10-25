@@ -1,0 +1,761 @@
+---
+title: "Michael Schuckers' Curriculum Vitae"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+  pdf:
+    documentclass: article
+    geometry:
+      - top=20mm
+      - bottom=20mm
+      - left=20mm
+      - right=20mm
+---
+
+# Contact Information
+
+* **Institution:** School of Data Science
+* **Address:** 1021A Colvard Hall, University of North Carolina at Charlotte, Charlotte, NC 28223
+* **Cell:** (315) 212-2318
+* **Email:** [schuckers@charlotte.edu](mailto:schuckers@charlotte.edu)
+* **LinkedIn:** [https://www.linkedin.com/in/schuckers/](https://www.linkedin.com/in/schuckers/)
+* **GitHub:** [https://github.com/schuckers](https://github.com/schuckers)
+
+---
+
+# Education
+
+* **Ph.D., Statistics**, Iowa State University, Ames, IA (1999)  
+  * *Dissertation:* Bayesian analysis of hierarchical models for polychotomous data from a multi-stage cluster sample.  
+  * *Advisor:* Hal S. Stern.
+* **A.M., Statistics**, The University of Michigan, Ann Arbor, MI (1994)
+* **B.A., Mathematics**, The Pennsylvania State University, University Park, PA (1992)  
+  * Schreyer Honors Program (1988–1992), Honors in Statistics, Minor in History
+
+---
+
+# Positions Held
+
+* **2024–present:** School of Data Science, Professor of Data Science and Sports Analytics, UNC Charlotte
+* **2002–2024:** Department of Mathematics, Computer Science and Statistics, St. Lawrence University (retired)  
+  * Assistant Professor (2002–2007)  
+  * Associate Professor, tenured (2007–2015)  
+  * Professor (2015–2024)  
+  * Rutherford Endowed Professor of Mathematics (2016–2018)  
+  * Charles A Dana Endowed University Professorship (2018–2024)  
+  * Professor Emeritus (2025–)
+* **2007–present:** Founding Director, Martha H. ’62 and Gregg H. Peterson Quantitative Resource Center, St. Lawrence University ([https://www.stlawu.edu/offices/pqrc](https://www.stlawu.edu/offices/pqrc))
+* **2007–present:** Co-founder, Statistical Sports Consulting, LLC ([www.statsportsconsulting.com](https://www.statsportsconsulting.com))
+* **2007 (Spring):** Sabbatical visitor, Pattern Recognition and Applications Group led by Fabio Roli, Dipartimento di Ingegneria Elettrica ed Elettronica, Università degli Studi di Cagliari, Italia
+* **2005–2017:** Founding Member, NexID Biometrics, LLC ([www.nexidbiometrics.com](https://www.nexidbiometrics.com)), sold to Precise Biometrics in February 2017
+* **1999–2002:** Assistant Professor, Department of Statistics, West Virginia University
+* **Spring 1999:** Visiting Assistant Professor, Department of Statistics, West Virginia University
+
+---
+
+# Honors and Awards
+
+* American Statistical Association Statistics in Sports Section Outstanding Service Award (2026)
+* GardenShare (St. Lawrence County, NY) Community Food Hero (2020)
+* J. Calvin Keene Faculty Award, St. Lawrence University (2018)
+* Participant, Invitation-only NHL Stats Workshop hosted by NHL and SAP (2016)
+* Finalist, Research Paper Competition, 10th MIT Sloan Sports Analytics Conference (2016)
+* Fulbright Scholar, The Fulbright-VTT Grant in Science, Technology and Innovation, Espoo, Finland (2013)
+* Significant Contributor Award, American Statistical Association’s Section on Statistics in Sports (2013)
+* Finalist (and Runner-up), Research Paper Competition, 7th MIT Sloan Sports Analytics Conference (2013)
+* Invited Panelist, Hockey Analytics Panel, 6th MIT Sloan Sports Analytics Conference (2012)
+* Finalist, Research Paper Competition, 5th MIT Sloan Sports Analytics Conference (2011)
+* Participant, Invitation-only NSF Workshop on Fundamental Research Challenges for Trustworthy Biometrics, Washington, DC (2010)
+* Best Poster Award, JSM 2010, Section on Statistics in Sports, Vancouver, BC (2010)
+* Inductee, Omicron Delta Kappa, Leadership Honorary Society, St. Lawrence University (2009)
+* Best Poster Award, JSM 2008, Section on Statistics in Sports, Denver, CO (2008)
+* William B. Bradbury, Jr. Faculty Award, St. Lawrence University (2006)
+* Participant, Chicago Fingerprint Forum, International Association for Identification, Chicago (2001)
+* Participant, New Researchers Conference, Institute of Mathematical Statistics (1999)
+* Teaching Excellence Award, Iowa State University (1998)
+* General Motors Scholarship, Iowa State University (1995)
+* Trademark Scholarship, The Pennsylvania State University (1988–1992)
+
+---
+
+# Teaching Experience
+
+### 2024–present: Professor, UNC Charlotte
+* DTSC 4001/ITCS 5010 "Advanced Football Analytics", F26
+* DTSC 2301/2302 "Data Science Studio 2: Modelling and Society", S25, S26
+* DTSC 3400 "Sports Analytics Internship/Practicum", F25
+
+### 2007: Visitor, Dipartimento di Ingegneria Elettrica ed Elettronica, Università degli Studi di Cagliari, Italia
+* Co-taught with S. Schuckers, PhD Short Course, "Topics in Biometrics: Vulnerability Protection and Statistical Performance Evaluation"
+
+### 2002–2024: Assistant/Associate Professor/Professor, St. Lawrence University
+* **Stat 113:** "Applied Statistics I" — F02(2), S03(2), F03(2), S04(2), F04, S05, F05, S06, F07, S08, F08, S09, F09, S10, F10, S11, S12, S13, F14, S15, F15, S16, F16, S17, F17, S18, F18, S19, S21, Summer 2022(2), F23
+* **Stat 213:** "Applied Statistics II" — F02, F03, F05, S11, F12, S15, S17, S24
+* **Stat 226:** "Design and Analysis of Experiments" — S03, S06, F08, F10, F12, F14, F16, F18, F20, F22
+* **Stat 250:** "Reading and Writing Mathematics" — F09
+* **Stat 250/SSES 250:** "Sports Analytics" — F15
+* **Stat 325:** "Probability" — F04, F07, F11, F15, F21(2)
+* **Stat 326:** "Mathematical Statistics" — S04, S05, S08, S12, S16, S21, S22
+* **DATA/Stat 352:** "Statistical and Machine Learning" — S23
+* **Senior Seminars:**
+  * Statistics in Sports Senior Year Seminar (SiSSYS), co-leader, S08
+  * Nonparametric Statistics Senior Seminar, S09
+  * Analyzing Intensive Techniques in Statistics (AInTS), co-leader, S10
+  * Data Analysis Competitions (Kaggle), S13
+  * Statistical Learning, S18, S19
+
+### 1999–2002: Assistant Professor, West Virginia University
+* **Stat 101:** "Elementary Statistical Inference" — Fall 1999 (2), Spring 2000 (2), Fall 2000(2), Spring 2001(2), Spring 2002
+* **Stat 312/512:** "Statistical Methods II" — Spring 2002
+* **Stat 331/631:** "Sampling Methods" — Fall 2001
+* **Stat 390:** "Teaching Practicum" — Fall 2000, Spring 2001
+* **Stat 391G:** "Special Topics: Complex Survey Design" — Fall 2000
+
+### 1999: Visiting Assistant Professor, West Virginia University
+* Spring 1999, Lecturer for two sections of Stat 101, "Elementary Statistical Inference"
+
+### 1995–1998: Teaching Assistant, Iowa State University
+* Spring 1998, Lecturer for five credit "Introduction to Business Statistics"
+* Fall 1997, Lecturer and grader for two credit "Applied Regression Analysis for Business"
+* Spring 1997, Lecturer for five credit "Introduction to Business Statistics"
+* Summer 1997, Lecturer for graduate course titled "Statistical Methods for Research Workers"
+* Fall 1996, Lecturer and grader for two credit "Applied Regression Analysis for Business"
+
+### 1992–1994: Teaching Assistant, The University of Michigan
+* Winter 1994, Head Lab Assistant and Lab Coordinator for "Introduction to Statistical Reasoning"
+* Fall 1993, Head Lab Assistant and Lab Coordinator for "Introduction to Statistical Reasoning"
+* Winter 1993, Lab Instructor for "Statistics and the Art of the Scientific Investigation"
+* Fall 1992, Lab Assistant for "Introduction to Statistics and Data Analysis"
+
+---
+
+# Peer Reviewed Publications
+
+* Clark, N. J., & Schuckers, M. E. (2026). Publishing and Using SCORE Modules in the Classroom. *Scatterplot*, 1–8. [https://doi.org/10.1080/29932955.2026.2629577](https://doi.org/10.1080/29932955.2026.2629577)
+* ME Schuckers, M Lopez, B Macdonald, "Estimation of Player Aging Curves Using Regression and Imputation", *Annals of Operations Research*, Jan. 2023. [https://link.springer.com/book/9783031985874](https://link.springer.com/book/9783031985874)
+* P. Das, L. Holsopple, D. Rissacher, M. Schuckers and S. Schuckers, "Iris Recognition Performance in Children: A Longitudinal Study," in *IEEE Transactions on Biometrics, Behavior, and Identity Science*, vol. 3, no. 1, pp. 138-151, Jan. 2021, doi: 10.1109/TBIOM.2021.3050094.
+* Schuckers, M. and Campbell, S. (2020), Telling statistical stories. *Significance*, 17: 30-33. [https://doi.org/10.1111/1740-9713.01447](https://doi.org/10.1111/1740-9713.01447)
+* Lopez, ML, Schuckers ME "Predicting Coin Flips: Using Resampling And Hierarchical Models To Help Untangle The NHL's Shootout", *Journal of Sports Sciences* (2016).
+* Schuckers, ME, Argeris S "You Can Beat the ‘Market:’ Estimating the Return on Investment for NHL Team Scouting" *Journal of Sports Analytics* (2015).
+* Humphrey-Dixon, EL, Sharp, R, Schuckers, M, Lock R "Comparative genome analysis suggests characteristics of yeast inverted repeats that are important for transcriptional activity", *Genome* (2011).
+* Schuckers, ME "An Alternative to the NFL Draft Pick Value Chart Based upon Player Performance", *Journal of Quantitative Analysis in Sports* (2011).
+* Lewicke, A, Corwin, W, Schuckers, M., Xueyan, X, Neuman, M, Schuckers, S "Analysis of Heart Rate Variability for Predicting Cardiorespiratory Events in Infants", *Biomedical Signal Processing and Control* (2011).
+* Schuckers, ME "A parametric correlation framework for the statistical evaluation and estimation of biometric-based classification performance in a single environment," *IEEE Transactions on Information Forensics and Security* 4 (2009), 231-241.
+* Adler, A, Schuckers, ME, "Human versus Automatic Face Recognition," *IEEE Transactions on Systems, Man and Cybernetics – Part B*, 37 (2007), 1248-1255.
+* Barthelmess, EL, Phillips, ML, Schuckers, ME, "The value of bioelectrical analysis vs condition indices in predicting body fat stores in North American porcupines (Erithizon dorsatum)", *Canadian Journal of Zoology*, 84 (2006), 1712-1720.
+* Colbert, J., Schuckers, ME, Fekedulegn, D, Rentch, J, MacSiurtain, M, and Gottschalk, K. "Individual-tree based basal area growth parameter estimates for four models," *Ecological Modeling*, 174 (2004), 115-126.
+* Schuckers, ME "Using the Beta-binomial distribution to assess performance of a biometric identification device", *International Journal of Image and Graphics*, 3 (2003), 523-529.
+* Colbert, J.J., Schuckers, ME and Fekedulegn, D. "Comparing models for growth and management of forest tracts". In Amaro, A., D. Reed and P. Soares, eds., *Modelling Forest Systems*. CABI Publishing, Wallingford, UK (2003).
+* Fekedulegn, BD, Colbert, JJ, Hicks, RR, Jr., and Schuckers, ME. 2002. Coping with multicollinearity: an example on application of principal components regression in dendroecology. Research Paper NE-721. Newtown Square, PA: U.S. Department of Agriculture, Forest Service, Northeastern Research Station.
+* Colbert, J.J., Schuckers, ME, and Fekedulegn, D. 2002. "Comparing basal area growth models, consistency of parameters, and accuracy of prediction". In Rizzoli, Andrea E., and Anthony J. Jakeman, eds. *Integrated assessment and decision support: Proceedings of the first biennial meeting of the International Environmental Modeling and Software Society*. IEMSs 2002 – 24-27 June 2002, University of Lugano, Switzerland. International Environmental Modeling and Software Society Vol. 3: 462-467.
+* Schuckers, ME, "Some statistical aspects of biometric identification device performance", *Stats Magazine*, 3-9, Winter 2001.
+* Gabrosek, JG, Schuckers, ME, "Breaking the Code – A graphical exploration using bar charts", in the *STAR Library online journal*, Fall 2001.
+
+---
+
+# Books
+
+* Coulombe, GC, O’Neill, MB, Schuckers, ME (eds), *A Handbook for Directors of Quantitative and Mathematical Support Centers*, University of South Florida Scholar Commons (2016) [http://scholarcommons.usf.edu/qmasc_handbook/](http://scholarcommons.usf.edu/qmasc_handbook/).
+* Schuckers, ME *Computational Methods in Biometric Authentication: Statistical Methods for Performance Evaluation*, Springer (2010).
+
+---
+
+# Book Chapters
+
+* B Macdonald, B Hellman, N Clark, ME Schuckers, "Using Regression Adjusted Plus Minus to Quantify Player Effect in Team Sports", *Foundations for Undergraduate Research in Mathematics* book series, chapter February 2026. [https://link.springer.com/book/9783031985874](https://link.springer.com/book/9783031985874)
+* Sylvain, J & Schuckers ME, "Can We Predict Injuries? The Probability and Severity of Man Games Lost Due to Injury in an NHL Season" in Rob Vollman’s *Hockey Abstract 2017* (2017).
+* Schuckers, ME, "Statistical Evaluation of Hockey Goaltending" in *Handbook of Statistical Methods for Design and Analysis in Sports* (Albert, Glickman, Swartz, Koning, eds.) Chapman & Hall/CRC Handbooks of Modern Statistical Methods (2016).
+* Schuckers, ME (2016), "Case Study: Peterson Quantitative Resource Center at St. Lawrence University", [http://dx.doi.org/10.5038/9780977674435.ch31](http://dx.doi.org/10.5038/9780977674435.ch31) in G. Coulombe, M. O’Neill, M. Schuckers (Eds.) *A Handbook for Directors of Quantitative and Mathematical Support Centers*, Neck Quill Press, [http://scholarcommons.usf.edu/qmasc_handbook](http://scholarcommons.usf.edu/qmasc_handbook).
+* Dunwell RM, Coulombe G, Schuckers ME (2016), "Reporting Assessment Findings to External Audiences", [http://dx.doi.org/10.5038/9780977674435.ch17](http://dx.doi.org/10.5038/9780977674435.ch17) in G. Coulombe, M. O'Neill, M. Schuckers (Eds.) *A Handbook for Directors of Quantitative and Mathematical Support Centers*, Neck Quill Press, [http://scholarcommons.usf.edu/qmasc_handbook](http://scholarcommons.usf.edu/qmasc_handbook).
+* Schuckers, ME, "Test Sample and Size" in *Encyclopedia of Biometrics*, Li, SZ and Elliot SJ (eds), (2009).
+
+---
+
+# Refereed Proceedings
+
+* Zou, Y, Kervin, E and Schuckers ME "A Bayesian Approach To Estimating A National Hockey League Draft Pick Value Chart With Bounds", *Proceedings of 2026 Linkoping Hockey Analytics Conference*, Best Research Paper Award. [https://doi.org/10.3384/ecp221008](https://doi.org/10.3384/ecp221008)
+* Fatima, K, et al. "A large-scale study of performance and equity of commercial remote identity verification technologies across demographics", *Proceedings of International Joint Conference on Biometrics*, Buffalo, NY, 2024. [https://arxiv.org/abs/2409.12318](https://arxiv.org/abs/2409.12318)
+* Schuckers, ME, "Statistical Methods for Testing Equity of False Non Match Rates across Multiple Demographic Groups", N. Damer, M. Gomez-Barrero, K. Raja, C. Rathgeb, A. Sequeira, M. Todisco, and A. Uhl (Eds.): *BIOSIG 2023*, Lecture Notes in Informatics (LNI), Gesellschaft für Informatik, Bonn 2023.
+* Schuckers, ME, Purnapatra, S, Fatima, K, Hou, D, Schuckers, S "Statistical Methods for Assessing Differences in False Non-Match Rates Across Demographic Groups", *Proceedings of the Understanding and Mitigating Demographic Bias in Biometric Systems (UMDBB) Workshop of the International Conference on Pattern Recognition*, August 2022. [https://arxiv.org/abs/2208.10948](https://arxiv.org/abs/2208.10948)
+* Schuckers, ME, "Draft by Numbers: Using Data and Analytics to Improve National Hockey League (NHL) Player Selection", poster, *MIT Sloan Sports Analytics Conference*, 2016. [https://myslu.stlawu.edu/~msch/SchuckersDraftByNumbers2016.pdf](https://myslu.stlawu.edu/~msch/SchuckersDraftByNumbers2016.pdf)
+* Schuckers, ME, Ippolite, C, "A Statistical Model for Prediction of National Football League (NFL) Fantasy Points" in *Proceedings of 2013 Math Sport International Conference*, Leuven, Belgium.
+* Schuckers, M, Curro, J "Total Hockey Rating (THoR): A comprehensive statistical rating of National Hockey League forwards and defensemen based upon all on-ice events", in *Proceedings of the 2013 MIT Sloan Sports Analytics Conference*, March 2013 (2nd Place in Research Paper Competition).
+* Schuckers, ME, Brozowski, LC "Referee Analytics: An Analysis of Penalty Rates by National Hockey League Officials", poster, *Proceedings of the 2012 MIT Sloan Sports Analytics Conference*, March 2012.
+* Schuckers, ME "DIGR: A Defense Independent Rating of NHL Goaltenders using Spatially Smoothed Save Percentage Maps", *Proceedings of the MIT Sloan Sports Analytics Conference*, March 2011.
+* Dietz, Z, Schuckers, ME "A Central Limit Theorem for a Single False Match Rate" in *Proceedings of Biometric Technology for Human Identification VII*, SPIE Conference 7667, Orlando, FL (2010).
+* Schuckers, ME, "Theoretical Statistical Correlation For Biometric Identification Performance" in *Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, (2008).
+* Schuckers, ME, Minev, YD, Adler A, "Curvewise DET confidence regions and pointwise EER confidence intervals using radial sweep methodology", *Proceedings of the 2nd International Conference on Biometrics 2007*, Seoul, Korea (2007). Awarded 3rd place best paper at this conference.
+* Schuckers, ME, Sheldon, EM, Hartson, HA "When enough is enough: Early stopping of biometrics error rate testing", *Proceedings of the 2007 Auto ID Conference* in Alghero, Italy (2007).
+* Schuckers, ME, "Statistical Inference for Template Aging" in *Biometric Technology for Human Identification III*, (2006) Proceedings of SPIE.
+* Ma, Y, Schuckers, ME, Cukic, B "Guidelines for Appropriate Use of Simulated Data for Bio-Authentication Research" in *Fourth IEEE Workshop On Automatic Identification Advanced Technologies, Proceedings of AutoID*, 2005.
+* Schuckers, ME, Lopez, NL, "Template Aging: A Study of the NIST Biometric Score Set Release 1" in *Proceedings of the Biometrics Symposium* 66-67, 2005.
+* Adler, A, Schuckers, ME "Calculation of a composite DET curve", in *Proceedings of Audio- and Video-Based Biometric Person Authentication: 5th International Conference*, Lecture Notes in Computer Science, Kanade et al (eds.) Springer Verlag GmbH, 3546: 860-868, 2005.
+* Atkinson, TJ and Schuckers, ME, "Approximate Confidence Intervals for Estimation of Matching Error Rates of Biometric Identification Devices" in *Biometric Authentication: ECCV 2004 International Workshop*, Lecture Notes in Computer Science, vol. 3087, Proceedings of the BioAW, Vol. 3087 Davide Maltoni and Anil K. Jain (Eds.), 3087: 184-194, 2004.
+* Schuckers, ME, Hawley, AM, Mramba, TN, Livingstone, KA, and Knickerbocker, CJ, "A comparison of statistical methods for evaluating matching performance of a biometric identification device- a preliminary report", in *Biometric Technology For Human Identification Proceedings of SPIE*, Anil K. Jain and Nalini K. Ratha (eds.), 5404: 144-155.
+* Schuckers, ME, "Interval estimates when no failures are observed", *IEEE AutoID Conference Proceedings*, 2002: 37-41.
+* Caswell Schuckers, SA, Xueyan, X, Schuckers, ME, Jenkins, JM, "Ventricular arrhymia detection using time-domain template algorithms", *Proceedings of the IEEE Northeast Bioengineering Conference*, 1998.
+
+---
+
+# Other Publications
+
+* Schuckers, M., Macdonald, B., & Ventura, S. (2025, April 30). Hockey Regression. "The SCORE Network." [https://doi.org/10.17605/OSF.IO/YUX6T](https://doi.org/10.17605/OSF.IO/YUX6T)
+* B. Macdonald, N. Clark, A. Lee, M. Schuckers, (2024) "The SCORE Network", *OR/MS Today* [https://doi.org/10.1287/orms.2024.04.07](https://doi.org/10.1287/orms.2024.04.07)
+* Schuckers, M. et al. (2023, September 11). Lake Placid Triathlon Correlations. "The SCORE Network." [https://doi.org/10.17605/OSF.IO/VN4FA](https://doi.org/10.17605/OSF.IO/VN4FA)
+* Schuckers, ME and Butterfield A, Central Scouting Rankings and the NHL Draft 2020 [http://myslu.stlawu.edu/~msch/Cescin2020.html](http://myslu.stlawu.edu/~msch/Cescin2020.html)
+* Schuckers, ME "Review of ‘Analytics Methods in Sports’ by TA Severini", *Australian and New Zealand Journal of Statistics*, 2017.
+* Seppa, T., Schuckers ME, Rovito, M "Text Mining of Scouting Reports as a Novel Data Source for Improving NHL Draft Analytics", 2017.
+* Schuckers, ME and Knickerbocker, CJ, Documentation for Program for Rate Estimation and Statistical Summaries, self-published, 2004 ([http://it.stlawu.edu/~msch/biometrics/PRESS.html](http://it.stlawu.edu/~msch/biometrics/PRESS.html)).
+* Schuckers, ME, "Estimation and sample size calculations for correlated binary error rates of biometric identification rates", In *2003 Proceedings of the American Statistical Association: Biometrics Section* [CD-ROM], American Statistical Association, Alexandria, VA.
+* Schuckers, ME, A Statistics 101 Coursepack, self-published 133 page coursepack at West Virginia University. First used, Fall 2000.
+
+---
+
+# Software Developed
+
+* Hou, D., Schuckers, ME, Yao, X, Downs, DC. **PRESSv2** (Program for Rate Estimation and Statistical Summaries version 2.0) (available September 2010).
+* Schuckers, ME, Mramba, TN, Knickerbocker, CJ **PRESS** (Program for Rate Estimation and Statistical Summaries) ([http://it.stlawu.edu/~msch/biometrics/PRESS.html](http://it.stlawu.edu/~msch/biometrics/PRESS.html)) release 1.1 available August 2005.
+
+---
+
+# Manuscripts in Progress
+
+* S. Shah, B. Shearin, S. Krishnan, M. Schuckers. "Predicting National Football League (NFL) Tackle Location: Temporal Composition, Interaction Structure, and Identity using Deep Learning" submitted to Carnegie Mellon Sports Analytics Conference.
+* M. Schuckers, A. Hayes "The Cignetti and the Noise: A machine learning model for P4 college football coaching hires" submitted to MIT Sloan Sports Analytics Conference Research Competition.
+* E. Kervin, M. Schuckers "Here’s the Kicker: Correcting Selection Bias in NFL Field Goal Models via Inverse Probability Weighting"
+
+---
+
+# Talks / Posters Given (* indicates undergraduate student co-author/co-presenter)
+
+* Joint Statistical Meetings, A Bayesian Approach to Player Aging Curves accounting for Different Leagues, Boston, MA, August 2026.
+* Linköping Hockey Analytics Conference, A Bayesian Approach To Estimating A National Hockey League Draft Pick Value Chart With Bounds, with Yufei Zou and Elliott Kervin, June 2026. Slides
+* AAAS-IUSE Virtual Workshop on Motivating Data Science and Quantitative Literacy to Advance Students’ Success in STEM, online, August 2025. [https://aaas-iuse.org/event/motivating-data-science-and-quantitative-literacy-to-advance-students-success-in-stem/](https://aaas-iuse.org/event/motivating-data-science-and-quantitative-literacy-to-advance-students-success-in-stem/)
+* MathFest, Workshop on Utilizing and Creating SCORE Network Materials for Data Science and Statistics Instructors, Sacramento, CA, August 2025.
+* MathFest, Poster Session for Projects Supported by the NSF Division of Undergraduate Education, Sports Content for Outreach, Research and Education (SCORE), Sacramento, CA, August 2025.
+* MathFest, Panel, Developing Grant Proposals for NSF Division of Undergraduate Education, Sacramento, CA, August 2025.
+* Conference on Predictive Inference in Sports (invited), Estimating Player Age Curves Using Regression And Imputation, Ames, IA, June 2025.
+* Connecticut Sports Analytics Symposium, Workshop: How to Create a Module for SCORE (with Rachel Gidaro), New Haven, CT, April 2025.
+* Bi-Weekly Research Talk, Three Data Science Projects: Sports Equity and Education, UNC Charlotte, November 2024.
+* Workshop on Sports Analytics to Strengthen Undergraduate Curriculum (SASUC), Panel on Sports Analytics Curriculum Integration, virtual, October 2024.
+* Cascadia Symposium on Statistics in Sports, Sports Content for Outreach, Research and Education (SCORE with Data) grant: An Update, Vancouver, September 2024.
+* Joint Statistical Meetings, An Administrative and Editorial view of the SCORE network, Portland, Oregon, August 2024.
+* Transforming Post-Secondary Education in Mathematics webinar panel Leading a Math Department in the 21st Century, November 2023.
+* New England Symposium on Statistics in Sports, Panel on Successful Outreach in Sports Analytics, Boston, September 2023.
+* 22nd International Conference of the Biometrics Special Interest Group (BIOSIG 2023), Statistical Methods for Testing Equity of False Non Match Rates across Multiple Demographic Groups, Darmstadt, Germany, September 2023.
+* Sports SIGMAA (Special Interest Group of the Mathematical Association of America) Panel on Teaching a Sports Analytics Course, with Stella Tomasi & Russell Goodman, Virtual, August 2023.
+* US Conference on Teaching Statistics Breakout session, Introduction to the sports content for outreach, research, and education (SCORE) network, with Ivan Ramler, Robin Lock, State College, PA, June 2023.
+* US Conference on Teaching Statistics Workshop, Building a SCORE module to teach with sports data, with Robin Lock, Rebecca Nugent, Brian Macdonald, State College, PA, May 2023.
+* Corning Inc, Statistical Practioners Seminar, Statistical Methods for Bioauthentication Matching Performance, Virtual seminar, May 2023.
+* 75th Anniversary of the Iowa State Statistics Department, Career Panel, Ames, Iowa, September 2022 (Panelist).
+* *Cascadia Symposium on Statistics in Sports, Quantifying Short-Term Winners and Losers of the NHL Trade Deadline from 2016-2022, with Claire Dudley, Vancouver, BC, September 2022.
+* Cascadia Symposium on Statistics in Sports, What does not get observed can be used to make age curves stronger: estimating player age curves using regression and imputation, with Mike Lopez and Brian Macdonald, Vancouver, BC, September 2022.
+* Understanding and Mitigating Demographic Bias in Biometric Systems(UMDBB) Workshop of the International Conference on Pattern Recognition, Statistical Methods for Assessing Differences in False Non-Match Rates Across Demographic Groups, Montreal, ON, August 2022.
+* *Midwest Sports Analytics Meeting, Classification of NHL Data, poster led by Aaron Burns, Virtual, November 2021.
+* Joint Statistical Meetings, Using Sports Analytics to Inspire Student Interest in Statistics and Storytelling with Data, Virtual, August 2021 (Invited Panelist).
+* Statistical Society of Canada Annual Meeting, Data Analysis and the NHL Entry Draft: A Review, University of Calgary, Calgary, AB, June 2019 (Invited).
+* Future of Sports Analytics Panel, Global Entertainment & Sports Law + Industry Conference, University of Miami, FL, April 2019 (Invited Panelist).
+* *Cascadia Symposium on Statistics in Sports, Design-weighted regression adjusted plus minus, with Seongwon Im, Brian Macdonald, Jesse McNulty, Vancouver, BC, August 2018.
+* Vancouver Hockey Analytics Conference, Lessons, Observations and Mistakes from 10 years of Analyzing 'Found Hockey Data', Vancouver, BC, March 2018 (Invited keynote).
+* *Joint Statistical Meetings, Player Tracking for Division I Women's College Hockey, with Maxime Bost-Brown, Baltimore, MD, August 2017.
+* Great Lakes Analytics in Sports Conference, Using Statistical Methods to Improve NHL Entry Draft Player Selection, Stevens Point, WI, July 2017.
+* Supporting Students in Quantitative Disciplines, Running at QMaSC, Franklin & Marshall College, Lancaster, PA, May 2017.
+* Ottawa Hockey Analytics Conference, Draft by Numbers, Ottawa, ON, May 2017.
+* St. Lawrence University Faculty Café, What the Puck? The statistical analysis of hockey, Canton, NY, March 2017.
+* Clarkson University Undergraduate Bio-Math Seminar, Functional Discrimination of Multivariate Longitudinal Metabolomic Profiles, Potsdam, NY, November 2016.
+* Babson Hockey Analytics Conference, A Look at the Statistical Evaluation of Hockey Goalies, Boston, MA, October 2016 (Invited).
+* *Cascadia Symposium on Statistics in Sports, Play Selection (Run/Pass) Efficiency in NCAA Division 1 College Football, poster led by Taylor Pellerin, Vancouver, BC, September 2016.
+* Rochester Institute of Technology Hockey Analytics Conference, The Value of a Zone Start, Rochester, NY, September 2016.
+* Hudson River Undergraduate Mathematics Conference, A Sports Analytics Consulting Course : Part I, Burlington, VT, April 2016.
+* Panthers Analytics WorkShop (PAWS16), Hockey Analytics 101, Sunrise, FL, February 2016 and HockEy Analytics in Research and Teaching (HEART) (Invited Panelist).
+* Ottawa Hockey Analytics Conference, An New Look at an Old xG, Ottawa, ON, January 2016.
+* Joint Statistical Meetings, Kaggle as a Course, Seattle, WA, August 2015 (Invited).
+* St. Michael’s College Mathematics Colloquium, Peek at Statistical Analysis of the NHL, Wisnooski, VT, March 2015.
+* Ottawa Hockey Analytics Conference, Drunks, Lampposts and Hockey Analytics, Ottawa, ON, February 2015.
+* Joint Mathematics Meetings, A Handbook for Directors of Quantitative and Mathematical Support Centers poster with G. Coulombe, M. O’Neill, San Antonio, TX, January 2015.
+* Statistics in Sports Colloquium, A Look at Sports Hockey Analytics, Carleton University, Ottawa, ON, November 2014.
+* Desautels Sports Industry Club, A Draft of Hockey Analytics McGill University, Montreal, PQ, November 2014.
+* Alberta Analytics Conference, Adjusting for Rink Effects in the NHL, (Keynote), with Brian Macdonald, Calgary, AB, September 2014.
+* Royal Statistical Society, Rink Effects in the National Hockey League, Sheffield, UK, September 2014.
+* Joint Statistical Meetings, Statistics on Ice: Advances in Methods for the Analysis of Ice Hockey — Invited Panel Rink Effects in the National Hockey League, Boston, MA, August 2014.
+* Joint Mathematics Meetings, Quantitative and Mathematics Support Centers Workshop to Develop Handbook of Best Practices poster with G. Coulombe, M. O’Neill, M. Nuffer, Baltimore, MD, January 2014.
+* Aalto University, Department of Mathematics and Systems Analysis Seminar, Five things Statistics/Analytics Tells Us About the NHL, Aalto University, Otaniemi, Finland, November 2013.
+* National Numeracy Network Meeting, Quantitative and Mathematics Support Centers: Update from the National Science Foundation Workshop poster with G. Coulombe, M. O’Neill, M. Nuffer, San Diego, CA, October 2013.
+* American Voices Seminar, A New York State of Mine, Turku, Finland, October 2013.
+* Joint Statistical Meetings What Statistics/Analytics Tells Us About Ice Hockey. Montreal, PQ, August 2013.
+* MathSport International, A Statistical Model for Prediction of National Football League (NFL) Fantasy Points, with C. Ippolite and J. Kelley, Leuven, Belgium, June, 2013.
+* *MIT Sloan Sports Analytics Conference Boston, MA. Total Hockey Rating (THoR) Research Paper Competition Finalist (2nd place) with Jim Curro, March 2013.
+* Desautels Sports Industry Conference (Invited Talk) Hockey Analytics McGill University, Montreal, PQ, October 2012.
+* Joint Statistical Meetings Effect of Aging on National Hockey League Goalie Performance San Diego, CA August 2012.
+* International Biometrics Performance Conference A Proposed Method for Scaling of False Positive Identification Rates Using Extreme Value Theory, Gaithersburg, MD, March 2012.
+* *MIT Sloan Sports Analytics Conference Boston, MA. Referee Analytics: An Analysis of Penalty Rates by National Hockey League Officials Research Paper Competition Finalist Poster with Lauren Brozowski, March 2012.
+* Biometrics Consortium Conference/ IEEE International Conference on Biometrics, Identity and Security (BIdS), A Proposed Method for Scaling of Identification False Match Rates Using Extreme Value Theory, Tampa, FL, September 2011.
+* *Joint Statistical Meetings An Analysis of Penalties Called in the NHL 2008-9 and 2009-10 Regular Seasons, Miami, FL with Lauren Brozowski, August 2011.
+* Joint Statistical Meetings An Analysis of the NHL Draft, Miami, FL August 2011.
+* International Indian Statistical Association Conference, Raleigh, NC , An evaluation of NFL team drafting performance (1991-2001), April 2011.
+* Q-Club, St. Lawrence University, Canton, NY, DIGR: A Defense Independent Goalie Rating, April 2011.
+* Northeast Consortium for Quantitative Literacy Meeting, Panel discussion: Math Support Centers: Common Theme, organizer and panelist.
+* MIT Sloan Sports Analytics Conference, Boston, MA, DIGR: A Defense Independent Goalie Rating based upon Spatial Probability Maps, Research Paper Competition Finalist Speaker, March 2011.
+* Science Café, Potsdam, NY, Lies, Damned Lies and …, November 2010.
+* Northern California Symposium on Statistics and Operations Research in Sports, Menlo Park, CA, An Empirical NFL Draft Value Chart, October 2010.
+* Northern California Symposium on Statistics and Operations Research in Sports, Menlo Park, CA, Shootout or Crapshoot: An Analysis of the NHL Shootout after Five Years, October 2010.
+* Joint Statistical Meetings, Vancouver, BC, A Spatial Analysis of National Hockey League Shot Data, August 2010. Section on Statistics in Sports 2010 Best Poster Award
+* Biometric Technology for Human Identification VII, A Central Limit Theorem for a Single False Match Rate, Orlando, FL, April 2010.
+* International Conference on Biometrics Performance (ICBP), NIST, Gaithersburg, MD, Distribution-Free Statistical Methods for Biometric Performance Evaluation, March 2010.
+* Meeting of the American National Standards Institute(ANSI), Biometrics Performance and Testing Task Group, M1.5, New York, NY Statistical Methods for Biometrics Performance, October 2009.
+* Biometrics Consortium Conferenence/ IEEE International Conference on Biometrics, Identity and Security (BIdS), Tampa, FL Statistical Methods for FNMR, FMR and beyond, (Best of Recent Work), September 2009.
+* Joint Statistical Meetings, Washington, DC, Nonparametric Comparison of Multiple ROCs Using Polar Coordinates, August 2009.
+* *Joint Statistical Meetings, Washington, DC, Beyond +/-: A Rating System to Compare NHL Players, with D. Lock, August 2009 (Invited).
+* *Joint Mathematical Meetings, Washington, DC, Statistical Comparison of False Non-Match Rates for Biometric Identification Systems Poster with A. Pendergrass, January 2009.
+* Joint Mathematical Meetings, Washington, DC, SiSSYS: A Senior Capstone Course Bases on Statistics in Sports with R. Lock and T. Atkinson, January 2009.
+* Joint Statistical Meetings, Denver, CO, SiSSYS: Reflections from a Capstone Course Using Sports Data with R. Lock and T. Atkinson, August 2008.
+* Joint Statistical Meetings, Denver, CO, SiSSYS: Student Work from a Capstone Course Using Sports Data - Part I Poster with R. Lock and T. Atkinson Statistics, August 2008. Section on Statistics in Sports 2008 Best Poster Award
+* Joint Statistical Meetings, Denver, CO, SiSSYS: Student Work from a Capstone Course Using Sports Data - Part II Poster with T. Atkinson and R. Lock, August 2008. Section on Statistics in Sports 2008 Best Poster Award
+* 2008 IEEE International Conference on Accoustics, Speech and Signal Processing, Las Vegas, NV, Theoretical Statistical Correlation For Biometric Identification Performance, April 2008 (Invited).
+* Williams College, Williamstown, MA Are you who you say you are? Evaluating the performance of biometric identification systems, March 2008 (Invited).
+* *2nd International Conference on Biometrics, Seoul, Korea, Curvewise DET confidence regions and pointwise EER confidence intervals using radial sweep methodology August 2007. 3rd Place Award Best Paper
+* *Joint Statistical Meetings, Salt Lake City, Utah, ROC confidence regions using radial sweep methodology, August 2007.
+* *Auto ID Conference 2007, Alghero, Italy, When enough is enough: Early stopping of biometrics error rate testing, May 2007.
+* Biometrics Consortium Conferenence, Washington, DC, National Biometrics Security Project Biometrics Testing Workshop, September 2006 (Invited Panelist).
+* Interagency Biometrics Conference, Washington, DC, A Statistical (Research) Program in Biometrics, Washington, DC, April 2006 (Invited).
+* Biometric Technology for Human Identification III, Orlando, FL, Statistical Inference for Template Aging, April 2006.
+* Auto-ID 2005 Conference, Guidelines for Appropriate Use of Simulated Data for Bio-Authentication Research with Y. Ma and B. Cukic, October 2005.
+* *Biometrics Consortium/ Biometrics Symposium, Washington, DC, A Comparison of Statistical Methods For Evaluating Matching Performance of a Biometric Identification Device - A Final Report, poster with Anne Hawley, Nona Mramba, Katie Livingstone, Collen Knickerbocker and Travis J. Atkinson, September 2004.
+* *Biometrics Consortium/ Biometrics Symposium, Washington, DC, An Approximate Wald Confidence Interval for Error Rate Estimation, poster with Travis J. Atkinson, September 2004.
+* Joint Statistical Meetings, Toronto, ON, Approximate Confidence Intervals for Correlated Binary Error Rates, August 2004.
+* *Biometric Authentication Workshop, Prague, Czech Republic, Approximate Confidence Intervals for Estimation of Matching Error Rates of Biometric Identification Devices, poster with Travis Atkinson, May 2004.
+* Biometric Technology For Human Identification conference, Orlando, FL, A comparison of statistical methods for evaluating matching performance of a biometric identification device- a preliminary report, March 2004.
+* Biometrics Consortium/Biometric Symposium, Washington, DC, Sample Size Calculations for Biometric Identification Devices, September 2003.
+* *Biometrics Consortium/Biometric Symposium, Washington, DC, A Comparison of Statistical Methodology for Evaluating Biometric Identification Devices – Preliminary Report, poster with Katie Livingstone, Anne Hawley, Nona Mramba, September 2003.
+* *Biometrics Consortium/Biometric Symposium, Washington, DC, Software for Statistical Error Rate Estimation, poster with Nona Mramba, Anne Hawley, Katie Livingstone, September 2003.
+* CyberTrust 2005: NSF grantee conference, Irvine, CA, ITR: Biometrics – Performance, Security and Social Impact poster with L. Hornak, S. Schuckers, B. Cukic, A. Jain, L. Nelson and A. Ross.
+* *Biometrics Consortium/ Biometrics Symposium, Washington, DC, Template Aging: A Study of the NIST Biometric Score Set Release 1, with N. Lopez, September 2005.
+* Joint Statistical Meetings, Minneapolis, MN, An Introduction to Some Statistical Issues in Biometric Authentication, August 2005.
+* Joint Statistical Meetings, San Francisco, CA, Estimating Correlated Binary Error Rates for Biometric Identification Devices, August 2003.
+* St. Lawrence University, Statistics Colloquium, Canton, NY, Estimating matching performance for biometric identification devices, March 2003.
+* IEEE AutoID Conference, Tarrytown, NY Interval estimates when no failures are observed, March 2002.
+* Joint Statistical Meetings, Atlanta, GA, Breaking the Code – A hands-on approach to teaching bar charts, August 2001.
+* CardTech/SecurTech Conference, International Biometric Industry Association Luncheon speaker, Las Vegas, NV, Biometric Education and Research at WVU, May 2001.
+* Center for Identification Technology Research planning meeting, Morgantown, WV. An Error Estimation Study, April 2001.
+* Joint Statistical Meetings, Indianapolis, IN, A Bayesian comparison of Beta-binomial proportions, August 2000.
+* Center for Identification Technology Research planning meeting, Morgantown, WV. A Template Aging Study, April 2001.
+* Dickinson College, Carlisle, PA, Some Statistical Aspects of the Performance of Biometric Identification Devices, March 2001.
+* West Virginia University, Morgantown, WV, Markov chains, Monte Carlo techniques, and Markov chain Monte Carlo methods, October 1999.
+* West Virginia University, Morgantown, WV, Basic emacs/xemacs guide, September 1999.
+* West Virginia University Eberly College of Arts and Sciences Research Fair, Morgantown, WV, Hierarchical Statistical Methods, September 1999.
+* Joint Statistical Meetings, Baltimore, MD, A Hierarchical Bayesian Model for Analyzing Polychotomous Data from Multi-stage Cluster Samples August 1999.
+* New Researchers Conference, Baltimore, MD, Analysis of Polychotomous Data from a Multi-stage Cluster Sample using Bayesian Hierarchical Models, August 1999.
+* Iowa State University, Ames, IA, Bayesian Analysis of hierarchical models for polychotomous data from a multi-stage cluster sample, August 1999.
+* West Virginia University, Morgantown, WV, Splus: An introduction, April 1999.
+* Model Selection, Empirical Bayes Symposium, Lincoln, NE, A Hierarchical Bayesian Model for Polychotomous Data from a Two Stage Cluster Sample, March 1999.
+* Joint Statistical Meetings, Dallas, TX, A Hierarchical Bayesian Approach to a Polytomous Response from a Cluster Sample, August 1998.
+
+---
+
+# Funding
+
+* **Inspiring College Math Study and Careers in Northern NY**, Mathematical Association of America Tensor Women & Mathematics Grants, $6,000, Co-PI, begun April 2024.
+* **Evaluation of Equity in Remote Identity Proofing Solutions**, Center for Identification Technology Research, $50,000, Co-PI, begun May 2022.
+* **SCORE with Data: Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science**, National Science Foundation, $1,100,000, co-PI, begun May 2022.
+* **Building Bright Futures In Data Science for St. Lawrence Students**, Fred L. Emerson Foundation, $250,000, co-PI, June 2021.
+* **MRI: Acquisition of a High Performance Computer (HPC)**, National Science Foundation, $230,863, co-PI, begun September 2019.
+* **Hudson River Undergraduate Mathematics Conference 2018**, National Science Foundation, $13,886, PI, begun December 2017.
+* **A Workshop for Quantitative and Mathematics Support Centers**, National Science Foundation, $49,652, PI, begun January 2013.
+* **Feasibility Study of an International Biometrics Data Portal**, Center for Identification Technology Research, $26,000, PI, begun December 2010.
+* **Advanced Subspace Techniques for Modeling Channel and Session Variability in a Speaker Recognition System**, Air Force Research Lab, awarded to Clarkson University, consultant, begun September 2010.
+* **MRI-R2: Acquisition of High Performance Computer and Microarray Scanner for Interdisciplinary Research in Computer Science and Biology at St. Lawrence University**, $179,336, senior personnel, submitted to National Science Foundation, begun May 2010.
+* **Program for Rate Estimation and Statistical Summaries (PRESS) version 2.0**, $55,000, PI, submitted to Center for Identification Technology Research, begun May 2009.
+* **STTR Phase I: Software-Based Liveness to Prevent Spoofing Fingerprint Biometric Scanners through National Science Foundation**, $147,326, begun January 2008 through NexID Biometrics, LLC.
+* **Sequential Testing for Biometric Error Rates**, through Center for Identification Technology Research, $21,600, PI, begun January 2006.
+* **Major Research Instrumentation - Acquisition of Instrumentation for Biometric Authentication Research: Collaborative Research**, National Science Foundation, $267,475, PI, begun August 2005.
+* **Towards a statistical community in biometric authentication**, Lockheed-Martin Corporation joint with West Virginia University, $41,572, Co-PI, begun December 2004.
+* **Biometrics – Performance, Security and Social Impact**, National Science Foundation – Information Technology Research (ITR), $3.1MM, Co-PI, begun March 2004.
+* **Developing PRESS (Program for Rate Estimation and Statistical Summaries) Software**, through Center for Identification Technology Research, $55,000, PI, begun January 2004.
+* **Comparison of statistical methods for estimating FAR and FRR**, through Center for Identification Technology Research, $25,000, PI, begun January 2003.
+* **A Survey of Previous Work on Template Aging for the Center for Identification Technology Research**, through Center for Identification Technology Research, $60,000, PI, begun November 2001.
+* **Statistical Analysis of FORSCOM Biometrics Quick Look**, subcontract through STS International from the US Department of Defense, $7,500, PI, begun October 2001.
+* **An Error Estimation Study for the Center for Identification Technology Research**, through Center for Identification Technology Research, $60,000, PI, begun November 2001.
+* **Biometrics and Information Assurance Curriculum Development**, Subcontract through STS International from the US Department of Defense, $262,443, Co-PI, begun July 2001.
+* **Predicting change in the growth curves of red oaks due to gypsy moth defoliation**, Co-operative grant from the United States Forest Service, $12,000, PI, begun July 2001.
+* **West Virginia Army National Guard Quick Look Test and Evaluation of Biometric Systems**, Subcontract through STS International from the US Department of Defense, $19,500, PI, begun January 2001.
+* **An Intelligent Distributed Environment for Adaptive Learning**, WVU Distance Learning Grant, $38,000, Participant, begun October 2000.
+* **Planning Activity for The Center for Identification Technology Research**, National Science Foundation Industry/University Cooperation Research Center, $10,000, Participant, begun July 2000.
+* **Detecting Physiological Change in Massive Temporal Data Sets**, Awards for Research Team Scholarship in the Eberly College of Arts and Sciences at West Virginia University, $27,000, Co-PI with K. Krajnak (Biology) and S. Schuckers (CSEE), begun July 2000.
+* **Developing Course Material for Statistics 101**, Eberly College of Arts and Sciences Summer Grant for Course Development, $2,500, PI, begun May 2000.
+* **Impact of Characteristic Bimodal Population Response in Biometric System Design**, WV EPSCoR through proposed Center for Identification Technology Research (CITeR), $15,000, Co-PI, begun December 1999.
+
+---
+
+# Sampling of Unfunded Proposals
+
+* SCORE with Data: Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, National Science Foundation, $2,000,000, co-PI, not funded 2020.
+* Proposal for a Research Cluster Computer, Silicon Mechanics, $100,000, co-PI, submitted February 2016, not funded.
+* A Research Experience for Undergraduates (REU) on the Statistical Analysis of Sports Data, American Statistical Association, $38,667, PI, submitted February 2016, not funded.
+* Collaborative Research: Hudson River Undergraduate Mathematics Conference 2016-2020, National Science Foundation, $12,759, Co-PI (St. Lawrence University lead), submitted July 2015, not funded.
+* Accomplishing early warning of identity and intent in unconstrained environments, Department of Homeland Security, $500,000, Consultant, proposed March 2011.
+* PRISM: Proactive Recruitment in Introductory Science and Mathematics using a MAThematics Center as Institutional Catalyst (PRISM-MATIC). $653,701, PI, National Science Foundation, March 2010, not funded.
+* CCLI Phase I: Interdisciplinary Impact from a Mathematics Center as Catalyst and Conduit for Curricular Change $(I^2=mc^5)$, National Science Foundation, $148,129, PI, submitted May 2008, not funded.
+* Cardiopulmonary response in normal and asthmatic children during acute combustion in indoor microenvironment, submitted to Syracuse Center of Excellence in Environmental and Energy Systems, co-PI, $299,850, December 2006, not funded.
+* Statistical Aspects of Fingerprint Identification, $59,009, PI, submitted to National Institute for Justice, Summer 2001, not funded.
+* Statistical Consulting for the United States Forest Service Northeast Research Station, unspecified amount, submitted to the United States Forest Service, Summer 2001, not funded.
+* Forest Growth Modelling of the Mid-Atlantic Region (DE, MD, PA, WV, OH), $30,650, Co-PI. submitted to West Virginia University Research Corporation, Fall 2000, not funded.
+* West Virginia Research Infrastructure Improvement Proposal, Participant, $9,000,001, Submitted to National Science Foundation EPSCoR, Summer 2000, not funded.
+* Biocomplexity: Detecting Electrophysiological Change in Massive Time Series Data Sets, Co-PI, $99,812, Submitted to the National Science Foundation Biocomplexity Incubation Program, Spring 2000, not funded.
+* An Intelligent Distributed Environment for Adaptive Learning, Co-PI, $563,348, Submitted to Fund for Improvement of Postsecondary Education, Spring 2000, not funded.
+* Integration of Interdisciplinary Knowledge-Based Learning with Skills-Based Learning Through Team-Taught Laboratories in Biometric Systems, an Identification Technology Degree, Co-PI, $499,491, submitted to the National Science Foundation, Spring 2000, not funded.
+* An Intelligent Distributed Environment for Adaptive Learning (IDEAL), Co-PI, $3,300,340, submitted to National Science Foundation: Information Technology Research (ITR), Spring 2000, not funded.
+* Developing a Biometrics Ready Computer (BRC), $1,044,000, Co-PI, submitted to STS International, Spring 2000, not funded.
+* Sun Equipment Grant, $25,000, Co-PI. submitted to Sun Microsystems Worldwide Education and Research Grant Program, Fall 1999, not funded.
+* Statistical Analysis and Design for Identification Technologies, $34,200, submitted to the West Virginia University Research Corporation, Fall 1999, not funded.
+
+---
+
+# Departmental / University Service
+
+### UNC Charlotte
+* Advisor, Sports Analytics Club, 2026-7
+* Member, Data Science PhD Qualifying Exam Committee, 2026 (2)
+* Member, Sports Analytics Lecturer/Teaching Assistant Professor Search Committee, 2026
+* Chair, School of Data Science Tenure Track Search Committee, 2025-6.
+* Member, Outstanding Junior Faculty Award Committee, 2025.
+* Member, Sports Analytics Curriculum Committee, 2025-6
+* Member, Data Science PhD Admissions Committee, 2025.
+
+### St. Lawrence University
+* Faculty/Staff Advisor, 2023-present, Men’s Club Soccer
+* Faculty/Staff Advisor, 2023-present, Women’s Club Hockey
+* Member, 2022-3, Admissions and Financial Aid Committee
+* Department Chair, 2022-present, Mathematics, Computer Science and Statistics Dept
+* Member, 2021-2, Mathematics Tenure Track Faculty Search Committee
+* Member, 2018-9, Temporary Faculty Commission on Reducing Contact Hours
+* Member, 2018, Data Science-Statistics Faculty Search Committee
+* Panel, 2018, Faculty and Staff Public Scholarship Roundtable
+* Chair, 2017-18, Data Science Faculty Search Committee (closed without making a hire)
+* Member, 2017-18, Athletics Advisory Committee
+* Member, 2017-19, 2021-2022 Professional Standards Committee (P&T) (elected by faculty, 2018-19 Chair, 2021-22 Chair)
+* Member, 2016-present, Friends of Owen D. Young and Launders Library Committee
+* Member, 2016, Statistics Teaching Post-Doc Search Committee
+* Member, 2016, Science Librarian Search Committee
+* Member, 2014-15, St. Lawrence University Athletic Director Search Committee
+* Led agreement with Clarkson University for a 4+1 program in Data Analytics
+* Member, 2014-2017, Budget and Finance Committee (co-chair 2015-2017)
+* Member, 2011-13, Academic Standing Committee
+* Faculty Council Chair and Representative to the Board of Trustees (2010-11)
+* Member, 2007-2008, 2009-2011 Faculty Council (elected by faculty)
+* New Faculty Mentor, 2008-2009
+* Member, 2009, Denmark Study Abroad Selection Committee
+* Member, 2009, Student Evaluations Review Committee
+* Member, 2008-2009, Computer Science Tenure Track Faculty Search Committee
+* Chair, 2008, Mathematics Visiting Assistant Professor Search Committee
+* Member, 2007-2008, Sociology Tenure Track (Methodology) Faculty Search Committee
+* Faculty/Staff Coach of the Week, 2006, St. Lawrence Football Team
+* Primary author, 2006, Quantitative Resource Center Proposal
+* Member, 2006-2007, 2007-2008 Tenure-Track Statistics Position Search Committee
+* Member, 2004-2006, Conservation Council
+* Member, 2004-2006, Admissions and Financial Aid Committee
+* Member, 2004, Peterson Chaired Professorship Selection Committee
+* Member, Festival of Science Planning Committee, 2004-2006, 2008 (2004 Publicity Chair, 2005 Publicity Co-chair, 2006 Committee Chair, 2009 Master of Ceremonies)
+* Faculty Representative, 2004, Board of Trustees Committee on University Advancement
+* Member, 2004, Rutherford and Cummings Chaired Professorships Selection Committee
+* Member, 2003-present, Integration Science Education Initiative
+* Member, Natural History Data Repository subcommittee
+* Member, 2003-2004, Scholarships, Fellowships and Grants Committee (Member, SLU Fellows subcommittee)
+* Member, 2003-present, Math-Econ Major Committee
+* Member, 2003-2004, Mathematics Department Visiting Faculty Search Committee
+* Grader, 2003, 2005-2006 Pi Mu Epsilon Math Contest
+* Member, 2002-2003, Mathematics Department Tenure Track Faculty Search Committee
+* Member, 2002-2003, Mathematics Department Visiting Faculty Search Committee
+* Member, 2002-2003, Mathematics Resource Center Committee
+* Designed New Course, Math 226, Design and Analysis of Experiments, Spring 2002
+* Chair, 1999, Department of Statistics Advanced Placement Committee
+* Member, 1999, Eberly College of Arts and Science Task Force on Undergraduate Teaching
+
+### West Virginia University
+* Member, 2001-2002, Forensic Identification Major (Biometrics Systems track) - Curriculum Committee
+* Chair, 2000, Department of Statistics Consulting Center Committee (Authored A Proposal for the Center for Data Analysis and Research in Statistics (CeDARS) at West Virginia University, implemented 2003)
+* Member, 2000-2002, Department of Statistics Faculty Evaluation Committee
+* Member, 1999-2002, Department of Statistics Curriculum Committee
+* Collaborated with Math and CS departments on Statistics involvement in creation of Computational Combinatorics and Discrete Mathematics (CCDM) program
+* Helped develop Forensic Statistics course proposal
+* Designed Statistical aspects of the Industrial Mathematics and Statistics flyer
+
+---
+
+# Thesis Committee Membership
+
+### West Virginia University
+* **Sherry Xu**, Ph.D in Computer Science and Electrical Engineering, *Prediction of life-threatening events in infants using heart rate variability measurements*, December 2001.
+* **Chris Beighley**, M.S. in Statistics, *The use of Kriging to predict the strengths of limestone*, December 2001. Statistician at CDC National Institute of Occupational Safety and Health (NIOSH).
+* **Wen Ouyang**, M.S. in Statistics, *Using statistics in business*, December 2001.
+* **Shu Chen**, M.S. in Statistics, *An Investigation of the choice of cardio-pulmonary resuscitation by dialysis patients*, graduated August 2001.
+* **Scott Johnson**, Ph.D. in Sport Psychology, *The effects on extracurricular participation of academic achievement, self concept, and locus of control among high school students*, graduated December 2000.
+* **Cuiqin Yang**, M.S. in Statistics, *A statistical analysis on the coronary artery heart disease*, graduated May 2000. SAS Programmer at Westat, Inc.
+* **Michael Kashon**, M.S. in Statistics, *Statistical analysis of the physiological attributes moderating the effect of MDMA induced neurotoxicity in a restraint stress paradigm*, graduated May 2000. Biostatistician for the National Institute for Occupation Safety and Health.
+
+---
+
+# Graduate Theses Advised
+
+* **David Wilson**, M.S. in Mathematics (Applied Math), co-Advisor with Shirley Mills, Carleton University, Ottawa, ON, *Mining NHL Draft Data and A New Value Pick Chart*, completed 2016.
+* **Tieliang Yan**, M.S. in Statistics, West Virginia University, *Analysis of long-term electrocardiographic data*, graduated May 2002.
+* **Kevin Tordoff**, M.S. in Statistics, West Virginia University, *Using the Beta-binomial to assess the overall matching performance of a Biometric Identification Device*, graduated August 2001. Completed Ph.D. in Biostatistics, The Ohio State University, 2007.
+
+---
+
+# Master’s Internships Supervised
+
+### UNC Charlotte
+* **Sri Chakradhar Naidu Dogga**, *Developing a Weighted Adjusted Stop Rate for College Football*, 2025.
+* **Jameson Ellis**, *Multi-Model Classification of Team Performance Differentials: Identifying Actionable KPIs in MLS Next Pro League*, 2025.
+* **Navya Teja Pathuri**, *Updating Draft Value Pick Charts for the NFL and the NHL*, 2025.
+* **Sri Ramya Kurella**, *Impact of Adjusted Offensive and Defensive Ratings on Fourth Down Success in College Football*, 2025.
+* **Yaswanth Kumar Navuluri**, *Incorporating Coaches Decisions Not To Try into Field Goal Kicker Ratings in College Football*, 2025.
+* **Datta Sai Sri Phani Bhushan Mada**, *An Adjusted Stop Rate for College Football*, 2025.
+* **Stephen Edoka**, *What Makes a Good Shot in the NBA and the WNBA*, 2025.
+
+---
+
+# Professional Service / Affiliations
+
+* Judge, Wharton High School Data Science Competition 2026
+* Mentor, 2026 ASA Datafest at Davidson College
+* Judge, Undergraduate Association of Data Science Datathon 2026
+* Organizing Committee, 2026 ASA Virtual Sports Analytics Conference
+* Chair-elect, 2025, Special Interest Group of the MAA on Sports and Mathematics, 2025-2027.
+* Organizing Committee, Conference on Predictive Inference in Sports, Iowa State University, Ames, IA, 2025.
+* Panelist, National Science Foundation Review Panel, 2025.
+* Book Proposal Reviewer, Elsevier, 2025.
+* Book Proposal Reviewer, Taylor and Francis, 2024, 2026.
+* Judge, SMT Data Challenge Hackathon, 2023, 2024, 2025.
+* Council of Sections Representative (elected), American Statistical Assn, Stat in Sports Section, 2024-2026 (Committee on Nominations, 2025-2026).
+* Program Committee, Linköping Hockey Analytics Conference, Linköping, Sweden 2022-2024, 2026.
+* Program Chair (elected), American Statistical Association, Section on Statistics in Sports, 2023.
+* Organizer and moderator, Birds of a Feather, "Using Sports to Motivate Statistics and Data Science", USCOTS 2021, JSM 2021.
+* Co-organizer, Big Data Cup hackathon ([https://www.stathletes.com/big-data-cup/](https://www.stathletes.com/big-data-cup/)) 2021, 2022, 2024, 2025.
+* External Tenure or Promotion Reviewer: Southern Methodist University (2026), University of Denver (2025), Penn State Behrend (2024), New College of Florida (2024), Carnegie Mellon (2022, 2026), The College of Wooster (2021), Southern Illinois University Edwardsville (2018), Smith College (2019, 2022).
+* Section Chair (elected), American Statistical Association, Section on Statistics in Sports, 2018.
+* Judge, Lego First League, Middle School Robotics Competition, Potsdam, NY, 2017, 2019.
+* Chair, Joint Statistical Meetings, Harnessing the Extraordinary Power of Statistics in Sports, Invited Panel, Chicago, IL, 2016.
+* Co-organizer, Panthers Analytics WorkShop (PAWS ’16) led by Brian Macdonald, Florida Panthers, February 2016.
+* Co-organizer, Ottawa Hockey Analytics Conference with Shirley Mills, Carleton University, Ottawa, CA, February 2015, January 2016, May 2017, September 2018, November 2019, March 2021, March 2022.
+* Docent and Mentor, Joint Statistical Meetings, Seattle, WA, August 2015.
+* Organizer, Joint Statistical Meetings Topic Contributed Session, Statistical Analysis of Women’s Sports, Seattle, WA, August 2015.
+* Academic Advisor, MIT Sloan Sports Analytics Conference, 2014.
+* Organizer, Joint Mathematics Meetings Panel on Quantitative Support Centers: Common Themes, Boston March 2012.
+* Organizer and Panelist, Math Support Center: Common Themes, UMass-Boston, 2011.
+* Co-chair, Biometrics Consortium Conference/ IEEE International Conference on Biometrics, Identity and Security (BIdS), 2011.
+* Chair, Statistical Modeling and Evaluation Session, Biometric Technology for Human Identification VII, Orlando, FL, April 2010.
+* Chair, Gait and Signature Recognition Session, International Conference on Biometrics, Seoul, Korea, August 2007.
+* Chair, Biometric Symposium Session, Washington, DC, September 2006.
+* Chair, Multibiometrics and Security Session, Biometric Technology for Human Identification III, Orlando, FL, April 2006.
+* Chair and organizer, "Statistical Opportunities in Biometrics" Session, First Annual Conference on Quantitative Methods and Statistical Applications in Defense and National Security, Santa Monica, CA, 2006.
+* Organizer, Topic Contributed Session, Joint Statistical Meetings, Minneapolis, MN, 2005.
+* Member, Technical Program Committee, "Biometrics and Human Computer Interaction" track, 2010 International Conference on Pattern Recognition (ICPR).
+* Member, Executive Committee (Secretary and webmaster), Northeast Consortium on Quantitative Literacy (NECQL), 2009-present.
+* Member, Program Committee, Biometrics: Theory, Applications and Systems (BTAS) 2008, 2009, 2010.
+* Member, Program Committee, Int’l Conference on Bio-Science and Bio-Technology (BSBT) 2008.
+* Member, Program Committee, Biometric Technology for Human Identification IV-VII (2007-2010).
+* Member, American Statistical Association Section on Defense and National Security Student Paper Competition Committee, 2006-2008.
+* Member, National Biometric Security Project Biometric Education Working Group, Morgantown, WV, May 2005-2009.
+* Member, Program Committee, Biometrics Symposium, Crystal City, VA, September, 2003-2008 (Organized special session on performance evaluation, 2004; Program Co-chair, 2005, 2006, 2007).
+* Member, IEEE, 2008-2010.
+* Faculty Reader, AP Statistics Exam, Educational Testing Service, Lincoln, NE, 2001, 2002.
+* Judge, Pittsburgh Regional Science and Engineering Fair, 1999-2002.
+* Member, Mathematical Association of America, 2001-2004, 2025-present.
+* Member, Center for Identification Technology Research (CITeR), 2000-present (Founding member, 2000).
+* Member, American Statistical Association, 1994 to present (Section on Statistics and Data Science Education, Section on Statistics in Sports, Section on Bayesian Statistical Science, Section on Statistics in Defense and National Security).
+* Treasurer, American Statistical Association Section on Statistics in Sports, 2013-2016.
+* Hudson River Undergraduate Mathematics Conference, Steering Committee, 2016 - 2020.
+* Guest Editor, *IET Biometrics: Special Issue on Statistical Analysis of Biometrics*, 2015.
+* Founding Editor in Chief, *Journal of Statistics and Data Science in Sports*, 2026-present.
+* Editor, *Score Network*, [http://scorenetwork.org](http://scorenetwork.org), 2023-present.
+* Associate Editor, *ASA Discoveries (Sports Statistics)*, 2025-present.
+* Associate Editor, *Journal of Quantitative Analysis in Sports*, 2011-2026 (Ad hoc subcommittee on Reproducible Research 2019).
+* Associate Editor, *Journal of Statistics Education*, 2010-2012.
+* **Referee:** *International Statistical Review* (2026), *Math and Sports* (2026), *Oxford Economic Papers* (2024), *American Mathematical Monthly* (2023, 2024), *Foundations for Undergraduate Research in Mathematics Book Series* (2023), *International Journal of Forecasting* (2023), *WIREs Computational Statistics* (2022, 2023), *Journal of Applied Statistics* (2022), *Annals of Operations Research* (2021, 2022), *Natural Sciences and Engineering Research Council of Canada, Discovery Grant* (2019, 2024), *European Journal of Operations Research* (2019), *PLoS One* (2018), *Biostatistics* (2017), *Numeracy* (2017, 2018), *Communications in Statistics* (2015), *Journal of Sports Analytics* (2014), *Journal of Statistical Computation and Simulation* (2013), *Journal of Quantitative Analysis in Sports* (2011, 2012, 2013, 2014, 2016, 2017, 2018, 2025), *Annals of Applied Statistics* (2008, 2009), *Operations Research* (2007, 2008, 2009), *IEEE Transactions on Information Forensics and Security* (2006, 2007, 2012), *Pattern Recognition* (2006, 2007, 2008), *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2005, 2006, 2009, 2011), *Computer Speech and Language* (2005), *Statistics in Medicine* (2001), *Journal of Statistical Education* (2000, 2004).
+* **Book Reviewer:** *Australian and New Zealand Journal of Statistics*, 2017.
+
+---
+
+# Senior Projects / Honors Theses Advised
+
+### UNC Charlotte
+* **Daniel Vazquez**, "Applying Design Weighted Regression Adjusted Plus-Minus to Soccer", completed Spring 2025.
+
+### St. Lawrence University
+* **Luc Salem**, honors thesis, "Estimating the average length of an NHL rebuild", completed Spring 2024.
+* **Shane Hauck**, senior thesis, "Using imputation to predict NFL draft selections", completed Spring 2023.
+* **Jane Baumer**, senior thesis, "Predicting SLU Alumni giving", completed Spring 2023.
+* **Emil Zetterqvist**, senior thesis, "A Shiny app for adjusted NHL save percentage", completed Spring 2022.
+* **Claire Dudley**, honors thesis, "Estimating who won the NHL trade deadline using betting odds", completed Spring 2022.
+* **Darren Ricalton**, senior thesis, "Classification of NFL Passing Defense using Machine Learning", completed Spring 2021.
+* **Taylor Armijo**, honors thesis, "An extension of the Kolmogorov Smirnov test", completed Fall 2019.
+* **Amanda Butterfield**, senior thesis, "An analysis of the NHL Draft and Central Scouting Service Rankings", completed Fall 2019.
+* **Gabrielle Collins**, honors thesis, "An evaluation of the Design Weighted Regression Adjusted Plus-Minus Ratings", completed Fall 2019.
+* **Jacqueline Garso**, honors thesis, "Testing the distribution of two point processes", completed Fall 2019.
+* **Dakota Golde**, honors thesis (CS), "Program for extracting play and roster data from junior hockey leagues", completed Fall 2019.
+* **Alexis Joy**, senior thesis, "Some Examples of Data Visualization", completed Spring 2019.
+* **Grace Harrison**, senior thesis, "Is the NHL Hockey Additive or Multiplicative", completed Fall 2018.
+* **Sarah Campbell**, honors thesis, "The Elements of Statistical Narratives", completed Fall 2018.
+* **Seongwon Im**, honors thesis, "Design-weighted Regression Adjusted Plus-Minus", completed Fall 2018.
+* **Meg Musser**, senior thesis, "Evaluation of the measuRing R package", completed Spring 2018.
+* **Gordon White**, senior thesis, "A graphical interface for an NHL player trajectory system", completed Fall 2017.
+* **Max Smith**, senior thesis, "An evaluation of the field goal kicking performance in NCAA FBS football", completed Fall 2017.
+* **Jeremy Sylvain**, senior thesis, "Injury Prone or Unlucky: Modelling Injuries in the NHL", completed Fall 2017.
+* **Eric Sweetman**, senior thesis, "ECAC Recruits: Data Analysis to Improve Recruiting", completed Spring 2017.
+* **Shauna Bulger**, senior thesis, "Assessing the Knowledge and Perceptions of Climate Change in North Country Residents using Principle Components Analysis and Logistic Regression Modeling", completed Spring 2017.
+* **John Tank**, senior thesis, "An analysis of game by game data for hockey players in the AHL and the CHL (WHL, OHL, QMJHL)", completed Spring 2017.
+* **Taylor Pellerin**, honors thesis, "An R package for play by play data from NCAA FBS Football Games", completed Fall 2016.
+* **Ketura Mason**, senior thesis, "Analysis of Pool Effects for some events at the 2016 Rio Olympic Games", completed Fall 2016.
+* **Kelsey West**, senior thesis, "Developing a Sports Analytics Consulting Course at a primarily Division III small liberal arts college", completed Spring 2016.
+* **Sydney Bell**, senior thesis, "Impact of Rush Shots on Shooting Probability Maps in the National Hockey League", completed Fall 2015.
+* **Danny Driscoll**, honors thesis, "Identifying Different Clusters of NHL Goalies", completed Spring 2015.
+* **Jenna Street**, honors thesis, "Developing an Adjusted Class Rank", completed Spring 2015.
+* **Dean Petzing**, honors thesis, "How to win an SEC football game", completed Spring 2014.
+* **Zach Nelson**, honors thesis, "Allocation of Player Salary via Nonparametric Quantile Regression", completed Spring 2013.
+* **Jo Kelley**, honors thesis, "Ridge Regression with application to Fantasy Football and the National Hockey League", completed Fall 2012.
+* **Tommy Pasquali**, honors thesis, "An Analysis of Faceoffs in the NHL", completed Spring 2012.
+* **Jim Curro**, honors thesis, "An automated extended plus-minus type estimator of player value for the National Hockey League", completed Spring 2012.
+* **Lauren Brozowski**, senior thesis, "An Analysis of the Rates of Penalties Called in the 2009-2010 NHL Regular Season", completed Spring 2011.
+* **Katelynn Benzing**, honors thesis, "DNA fingerprint matching with synthetic noise", completed Spring 2010.
+* **Lisa VanderVoort**, honors thesis, "Evaluation of Estimators of Generalized Pareto Distribution", completed Fall 2010.
+* **Paul Mercurio**, senior thesis, "Modeling the Spread of Raccoon Rabies", completed Spring 2011.
+* **Charles Mildrum**, honors thesis, "Spatial Statistics and Point Patterns: An Analysis of Shot Patterns in the NHL", completed Spring 2010.
+* **Jennifer Porter**, honors thesis, "Detecting Leukemia Hotspots", completed Spring 2010.
+* **Megan Howard**, honors thesis, "Classification Trees and Predicting Breast Cancer", completed Spring 2010.
+* **Cara Valentine**, senior project, "Spatial Analysis of Road Kill Data", completed Spring 2010.
+* **Matt Generous**, honors thesis, "An approach to rating NHL players based upon performance", completed Spring 2009.
+* **Amanda Pendergrass**, honors thesis, "Statistical Comparison of False Non-Match Rates for Biometric Identification Systems", completed Fall 2008.
+* **Royce Lawrence**, senior project, "Does the Hot Hand exist in bowling?", completed Spring 2008.
+* **Dennis Lock**, honors thesis, "Analysis of NHL Play by Play Data", completed Spring 2008.
+* **Jamie Wolff**, senior project, "Analysis of NBA Draft Selections", completed Spring 2008.
+* **Laura Daley**, senior project, "NHL Shootouts: Luck or Skill", completed Spring 2008.
+* **Yordan Minev**, honors thesis, "Confidence Regions for an ROC based upon Radial Sweep methodology", completed Fall 2006.
+* **Dustin Cidorowich**, honors thesis, "Predicting NFL draft selection value based upon player performance", completed Fall 2006.
+* **Robin Hanson**, honors thesis, "Statistical analysis of CHIME data", completed Spring 2006.
+* **Emily Sheldon**, honors thesis, "Sequential testing for Beta-binomial error rates", completed Fall 2005.
+* **Matthew Norton**, honors thesis, "Approximate Wald confidence intervals for random variables with quadratic variance", completed Spring 2005.
+* **Hilary Hartson**, honors thesis, "Sequential testing for biometric identification", completed Spring 2005.
+* **Nikki Lopez**, senior project, "Analyzing NIST’s biometrics score set release 1", completed Spring 2005.
+* **Jeff Homer**, senior project, "Turnovers in college football ratings", completed Fall 2004.
+* **Travis Atkinson**, honors thesis, "Approximate confidence intervals for a Beta-binomial distribution", completed Spring 2004.
+* **Roy Lee**, senior project, "Prediction of future point spreads for NBA games", completed Spring 2004.
+* **Matt Cooper**, senior project, "An annual suicide rate prediction model", completed Spring 2004.
+* **Leah Saliga**, senior project, "An actuarial model of motor vehicle insurance", completed Spring 2004.
+
+---
+
+# Security Clearance
+
+* **SECRET Security Clearance**, Notification May 2005, clearance held by EDSI, Inc. likely expired.
+
+---
+
+# Community / Recreation
+
+* Lake Davidson Triathlon (Sprint), Davidson, NC 2025
+* Higley 50k bike ride, Higley State Park, Colton, NY 2023
+* Burlington Marathon Relay, Burlington, VT, 2023
+* Volunteer Host, Higley State Park Night Skiing, Colton, NY, 2023
+* Vermont Sun Triathlon (Sprint), Salisbury, VT, 2021, 2022, 2023, 2025
+* Volunteer, Canton Church and Community Program Food Pantry 2020-2024
+* Volunteer, Campus Kitchens, Weekly Food Delivery 2020-2024
+* Friends of St. Lawrence Hockey, Board Member 2018-2019
+* First Lego League Judge, Clarkson University, 2017, 2019
+* Ordained Minister, Universal Life Church, October 2016
+* Canton Pee Wee Association Mud Run, Canton, NY 2015
+* The Canadian Tri a Tri (SuperSprint), Ottawa, ON 2015
+* River Rat Triathlon (Sprint), Clayton, NY 2014
+* Rodney T Miller Triathlon (Super Sprint) Decatur, IL 2012
+* Taught Sampling and Polling Processes SOAR Community Lifelong Learning Course, 2012
+* Potsdam Triathlon (Sprint), 2010, 2011
+* Cornwall Hospital (Olympic) Triathlon, 2010
+* Canton Pee Wee Soccer, Coach, (U15 Summer Travel Team 2015-17) 2005-2017
+* Norwood Beach Triathlon (Sprint) 2006-9, 2011-12
+* Banford Elementary School Kidstart Parent Advisory Committee, 2004-2005
+* West Virginia University Recreation Center Kickoff Sprint Triathlon, 2002
+* Uniontown, PA Sprint Triathlon 2000
+
+---
+
+# Consulting Projects
+
+* AI/Machine Learning for iSolutions, Inc (9/22 to 3/23), iSolutionsAI, LLC (3/23 to present)
+  * Predictive modelling of service center tickets (ongoing)
+  * Budget estimation for product packaging design firm (ongoing)
+  * Modeling to predict private high school admission (completed)
+  * Building a reactive chatbot using GPT3 (completed)
+* Statistical model building for LA Kings of the NHL (May 2017 - June 2018)
+* Estimation of Various Odds for Winning a Gold Medal, Saatchi & Saatchi (Spring 2017 – Fall 2017) "Good Odds" Toyota ad appeared during Super Bowl LII, Feb 2018, [https://www.youtube.com/watch?v=sefscV3GvWM](https://www.youtube.com/watch?v=sefscV3GvWM)
+* Valuation of Ontario Hockey League (OHL) Draft Pick Value for OHL team (Spring 2015)
+* Algorithm Development for a Tennis App (Fall 2014)
+* Statistical Algorithm Development for a Fantasy Football Website (Fall 2011 to present) [https://www.youtube.com/watch?v=3F2JCQuEuy](https://www.youtube.com/watch?v=3F2JCQuEuy)
+* A Statistical Analysis for a Major League Baseball team (completed Fall 2012)
+* Statistical Evaluation of NHL Free Agent Goalie Value for The Sports Corporation (completed Spring 2011)
+* Statistical Methods for Extrapolation of Biometric Matching Rates, Safran Morpho formerly Sagem Sécurité, (completed 2010).
+* Biometric Authentication Testing for National Biometrics Security Project, Morgantown, WV and Washington, DC (paid completed August 2007)
+* Population Testing Framework Development for Biometric Identification Devices for the Biometrics Fusion Center of the Department of Defense, Clarksburg, WV (paid completed July 2005)
+* Statistical consulting for the BioSAL (Biomedical Signal Analysis Lab) in the WVU Lane Department of Computer Science and Electrical Engineering with Dr. Stephanie Caswell Schuckers (completed).
+* Study of impact of gypsy moth defoliation on growth curves for trees in the Northeastern U.S. with Dr. Jim Colbert of the U.S. Forest Service and Fekedulegn Desta of Forestry (completed).
+* Analysis of the National Educational Longitudinal Study: 1998 (NELS:88) with WVU Dr. Ron Althouse of Sociology and Anthropology and Dean Dana Brooks of the School of Physical Education (completed).
+* Correlation of gravel deposits from trenching project on Alder Creek fluvial terrace near Point Arena, California with Aletha Lee, undergraduate honors student in Geology and Geography (completed).
+
+---
+
+# Additional Professional Experience
+
+* **1994–1995:** Statistical Intern (15 months), W. K. Kellogg Company, Battle Creek, MI  
+  * Co-authored internal technical report on dose-responses clinical trial  
+  * Designed in-market advertising tests for the Market Research Department  
+  * Consulted for various departments, including Human Resources, Marketing and Engineering
+* **1993:** Statistical Software Consultant, Summer Institute in Survey Research Techniques, Inter-university Consortium for Political and Social Research (ICPSR), Ann Arbor, MI
+
+---
+
+# Graduate Committee Membership
+
+* **Shane Malloy**, PhD Interdisciplinary Studies, External Evaluator, University of New Brunswick, NB, 2026.
+* **Jonathan Arsenault**, PhD Mechanical Engineering, External Evaluator, McGill University, Montreal, ON, 2023.
+* **Stephanos Tselios**, Master’s Sport Management, Brock University, St. Catherine’s, ON, defended September 2018.
+* **Ragitha M. Silva**, PhD Statistics, Simon Fraser University, Burnaby, BC, defended December 2016.
+* **Estefan Ortiz**, PhD Electrical Engineering, University of Notre Dame, South Bend, IN, (Kevin Bowyer advisor) defended December 2015.
+
+---
+
+# Selected Popular Media
+
+* Interviewed for the Hockey Data Show on SiriusXM NHL Network Radio, June 2026.
+* Interviewed for Deep Pucking Value Podcast, November 2025. [https://podcasts.apple.com/al/podcast/episode-7-michael-schuckers/id1843230567?i=1000738138151](https://podcasts.apple.com/al/podcast/episode-7-michael-schuckers/id1843230567?i=1000738138151)
+* Interviewed for the Hockey Data Show on SiriusXM NHL Network Radio, October 2025.
+* Faculty In Development podcast on imposter syndrome, March 2024 on Spotify and Apple Podcast.
+* Local NPR station interview and discussion of work on hockey "Money Puck: SLU prof unlocks hockey’s secrets with Stats", by David Sommerstein, May 6, 2016 [http://www.northcountrypublicradio.orgnews/story/31716/20160506/money-puck-slu-prof-unlocks-hockey-s-secrets-with-stats](http://www.northcountrypublicradio.orgnews/story/31716/20160506/money-puck-slu-prof-unlocks-hockey-s-secrets-with-stats).
+* Watertown TV station, WWNY, story on my work on hockey especially with St. Lawrence University Women’s Hockey Team, John Friot, April 28, 2016, [http://www.wwnytv.com/news/local/Professor--The-Puck-Crunching-Numbers-For-Better-Hockey-377457041.html](http://www.wwnytv.com/news/local/Professor--The-Puck-Crunching-Numbers-For-Better-Hockey-377457041.html)
+* AP Story about my work on Hockey Analytics "Hockey analytics a good match for NY statistics professor" by John Kekis, Mar. 5, 2016 [http://bigstory.ap.org/article/b105b36d5bf64af1b782d2a4c3f586ba/hockey-analytics-good-match-ny-statistics-professor](http://bigstory.ap.org/article/b105b36d5bf64af1b782d2a4c3f586ba/hockey-analytics-good-match-ny-statistics-professor)
+* Podcast interview with Shirley Mills (Carleton U) about the 2016 Ottawa Hockey Analytics Conference by TSN Analytics Show from the conference, January 16, 2016.
+* Article with audio interview "Ottawa hockey analytics conference goes beyond the boxscore" with Shirley Mills (Carleton U.) about the 2016 Ottawa Hockey Analytics Conference by CBC.ca, January 16, 2016.
+* Interview with Alison Mah entitled "Corsi, Fenwick and hockey nerdery: A Q&A with a professor of hockey analytics" Ottawa Citizen, February 7, 2015. [http://ottawacitizen.com/sports/hockey/corsi-fenwick-and-hockey-nerdery-a-q-a-with-a-professor-of-hockey-analytics](http://ottawacitizen.com/sports/hockey/corsi-fenwick-and-hockey-nerdery-a-q-a-with-a-professor-of-hockey-analytics)
+* Mentioned in "The MoneyPuck Era: Analytics May Be The Most Talked About Aspect Of The Game That Nobody Wants To Talk About" by Mark J. Burns, December 2014 USA Hockey Magazine [http://www.usahockeymagazine.com/article/2014-12/moneypuck-era](http://www.usahockeymagazine.com/article/2014-12/moneypuck-era)
+* Summary of a panel at the 2014 Joint Statistical Meetings in Boston on Statistical Analysis in Hockey, August 09, 2014 [http://www.bostonglobe.com/sports/2014/08/09/nhl-brink-intelligence-explosion/rzB1N81iptBsR1NQkslbGM/story.html?s_campaign=8315](http://www.bostonglobe.com/sports/2014/08/09/nhl-brink-intelligence-explosion/rzB1N81iptBsR1NQkslbGM/story.html?s_campaign=8315)
+* Mentioned in "How much did Boyd Gordon help the Edmonton Oilers with his skill as a faceoff man?" by David Staples, Edmonton Journal, June 6, 2014 [http://blogs.edmontonjournal.com/2014/06/06/how-much-did-boyd-gordon-with-his-skill-as-a-faceoff-man/](http://blogs.edmontonjournal.com/2014/06/06/how-much-did-boyd-gordon-with-his-skill-as-a-faceoff-man/)
+* Interviewed by Bill Hayes on TSN 1050 Toronto, August 26, 2013 regarding hockey analytics, [http://iphone.tsn.ca/tsnpodcasts/august26th_dn1.mp3](http://iphone.tsn.ca/tsnpodcasts/august26th_dn1.mp3) (Interview starts around minute 35).
+* Mentioned in "NHL GMs can get an assist by employing analytics" by Boston Globe’s Fluto Shinzawa, August 18, 2013, [http://www.bostonglobe.com/sports/2013/08/17/stats-studies-illuminate-nhl-signings/1uJPpt3Ig5tWItkfIGWSrI/story.html](http://www.bostonglobe.com/sports/2013/08/17/stats-studies-illuminate-nhl-signings/1uJPpt3Ig5tWItkfIGWSrI/story.html)
+* Feature on Total Hockey Ratings in "NHL teams starting to pay attention to statistical analysis" in Toronto Star by Dave Feschuk, March 8, 2013, [http://www.thestar.com/sports/hockey/2013/03/08/nhl_teams_starting_to_pay_attention_to_statistical_analysis_feschuk.html](http://www.thestar.com/sports/hockey/2013/03/08/nhl_teams_starting_to_pay_attention_to_statistical_analysis_feschuk.html)
+* Underdogs Podcast with Tom Haberstroh, Peter Keating, Jordan Brenner, "Under(dog) Market Value", July 2022 [https://podcasts.apple.com/cz/podcast/under-dog-market-value/id1612309388?i=1000569247115](https://podcasts.apple.com/cz/podcast/under-dog-market-value/id1612309388?i=1000569247115)
+* Statistical work mentioned in "Jackets wrong on offer? Do the math" in Columbus Dispatch by Michael Arace, June 27, 2012 [http://www.bluejacketsxtra.com/content/stories/2012/06/27/jackets-wrong-on-offer-do-the-math.html](http://www.bluejacketsxtra.com/content/stories/2012/06/27/jackets-wrong-on-offer-do-the-math.html)
+* Article on Sports Analytics "For now speed of game outpaces analytic angle" in Boston Globe by Fluto Shinzawa, March 25, 2012 [http://articles.boston.com/2012-03-25/sports/31237116_1_david-clarkson-flyers-devils-martin-brodeur](http://articles.boston.com/2012-03-25/sports/31237116_1_david-clarkson-flyers-devils-martin-brodeur)
+* Discussion of appearance on Hockey Analytics Panel at MIT Sloan Sports Analytics Conference via NHL Insider at [NHL.com](http://www.nhl.com/ice/news.htm?id=620186#)
+* Research Piece with Chris Wells "Just Win, Baby" in *The Hockey News*, February 13, 2012 [http://ca.zinio.com/browse/publications/singleissues.jsp?productId=114152385&ns=zno&pss=1](http://ca.zinio.com/browse/publications/singleissues.jsp?productId=114152385&ns=zno&pss=1)
+* WAMC’s (Albany Public Radio) Academic Minute on the NHL Shootout, December 14, 2011 [http://www.publicbroadcasting.net/wamc/news.newsmain?action=article&ARTICLE_ID=1883513](http://www.publicbroadcasting.net/wamc/news.newsmain?action=article&ARTICLE_ID=1883513)
+* Summary of results given in Isolating the Impact of Goalies by Peter Keating in *ESPN The Magazine*, November 7, 2011 [http://insider.espn.go.com/nhl/story?id=7203174&_slug_=espn-magazine-level-new-stat-goaltenders](http://insider.espn.go.com/nhl/story?id=7203174&_slug_=espn-magazine-level-new-stat-goaltenders)
+* Discussion of results in article Une nouvelle méthode d'évaluation des gardiens by Mathias Brunet in Montréal’s *La Presse*, October 20, 2011 [http://www.lapresse.ca/sports/hockey/201110/20/01-4459109-une-nouvelle-methode-devaluation-des-gardiens.php](http://www.lapresse.ca/sports/hockey/201110/20/01-4459109-une-nouvelle-methode-devaluation-des-gardiens.php)
+* Research and results described in *Wall Street Journal* article by Jared Diamond, October 17, 2011 [http://online.wsj.com/article/SB10001424052970204479504576635272501531268.html](http://online.wsj.com/article/SB10001424052970204479504576635272501531268.html)
+* Work discussed in article by Randy Boswell of Canada.com picked up by *The Vancouver Sun* and *The Montreal Gazette*, June 24, 2011 [http://www.vancouversun.com/sports/draft+drama+math/4989690/story.html](http://www.vancouversun.com/sports/draft+drama+math/4989690/story.html)
+* Same work cited in article by Daniel J. Cassavaugh of *The Watertown (NY) Times* [http://www.watertowndailytimes.com/article/20110624/SPORTS01/306249950](http://www.watertowndailytimes.com/article/20110624/SPORTS01/306249950)
+* Cited in Chris Gorski article in *US News and World Report* How Good Is That Goalie, May 4, 2011 [http://www.usnews.com/science/articles/2011/05/04/how-good-is-that-goalie](http://www.usnews.com/science/articles/2011/05/04/how-good-is-that-goalie)
+* Cited by Scott Cullen in Hockey at the Sloan Sports Analytics Conference, March 11, 2011. [http://www.tsn.ca/blogs/scott_cullen/?id=357614](http://www.tsn.ca/blogs/scott_cullen/?id=357614)
+* Cited by Peter Keating in Random Mess in *ESPN The Magazine*, December 27, 2011 [http://insider.espn.go.com/insider/blog?name=keating_peter&id=5929566](http://insider.espn.go.com/insider/blog?name=keating_peter&id=5929566)
+* The Standard with Peter Klein (JoyTV- Vancouver), TV Interview, first aired August 22, 2011:
+  * [http://www.youtube.com/watch?v=i65NN514reA](http://www.youtube.com/watch?v=i65NN514reA)
+  * [http://www.youtube.com/watch?v=IL-XUFsBaLk](http://www.youtube.com/watch?v=IL-XUFsBaLk)
